@@ -1,0 +1,74 @@
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\appsettings.Development.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\appsettings.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\MyProject1.exe
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\MyProject1.deps.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\MyProject1.runtimeconfig.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\MyProject1.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\MyProject1.pdb
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.csproj.AssemblyReference.cache
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.AssemblyInfoInputs.cache
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.AssemblyInfo.cs
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.csproj.CoreCompileInputs.cache
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.MvcApplicationPartsAssemblyInfo.cs
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.MvcApplicationPartsAssemblyInfo.cache
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.MyProject1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.build.MyProject1.props
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyProject1.props
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyProject1.props
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\scopedcss\bundle\MyProject1.styles.css
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.csproj.CopyComplete
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\refint\MyProject1.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.pdb
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\MyProject1.genruntimeconfig.cache
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\obj\Debug\net7.0\ref\MyProject1.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Tyan\ASPNET WEB API\MyProject1\MyProject1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\appsettings.Development.json
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\appsettings.json
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\MyProject1.exe
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\MyProject1.deps.json
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\MyProject1.runtimeconfig.json
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\MyProject1.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\MyProject1.pdb
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tyan\Github\Swagger\MyProject1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.csproj.AssemblyReference.cache
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.AssemblyInfoInputs.cache
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.AssemblyInfo.cs
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.csproj.CoreCompileInputs.cache
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.MvcApplicationPartsAssemblyInfo.cs
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.MvcApplicationPartsAssemblyInfo.cache
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.MyProject1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.build.MyProject1.props
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyProject1.props
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyProject1.props
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\scopedcss\bundle\MyProject1.styles.css
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.csproj.CopyComplete
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.dll
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\refint\MyProject1.dll
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.pdb
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\MyProject1.genruntimeconfig.cache
+D:\Tyan\Github\Swagger\MyProject1\obj\Debug\net7.0\ref\MyProject1.dll
